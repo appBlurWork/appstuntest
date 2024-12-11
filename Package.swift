@@ -15,20 +15,20 @@ let package = Package(
             targets: ["AppStunSDK"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/mobillium/MobilliumBuilders.git", from: "1.6.1"),
-        .package(url: "https://github.com/sindresorhus/Defaults.git", from: "8.2.0"),
-        .package(name: "Qonversion", url: "https://github.com/qonversion/qonversion-ios-sdk.git", from: "5.6.0")
+//        .package(url: "https://github.com/mobillium/MobilliumBuilders.git", from: "1.6.1"),
+//        .package(url: "https://github.com/sindresorhus/Defaults.git", from: "8.2.0"),
+//        .package(name: "Qonversion", url: "https://github.com/qonversion/qonversion-ios-sdk.git", from: "5.6.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "AppStunSDK",
-            dependencies: [
-                "Defaults",
-                "MobilliumBuilders",
-                "Qonversion"
-            ]
+            name: "AppStunSDK" //,
+//            dependencies: [
+//                "Defaults",
+//                "MobilliumBuilders",
+//                "Qonversion"
+//            ]
         ),
             
 
