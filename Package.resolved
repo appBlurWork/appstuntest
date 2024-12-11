@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "defaults",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/Defaults.git",
+      "state" : {
+        "revision" : "38925e3cfacf3fb89a81a35b1cd44fd5a5b7e0fa",
+        "version" : "8.2.0"
+      }
+    },
+    {
+      "identity" : "mobilliumbuilders",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mobillium/MobilliumBuilders.git",
+      "state" : {
+        "revision" : "babf60cfda74e0ab468e28e8f082e11b26ff90e7",
+        "version" : "1.6.1"
+      }
+    },
+    {
+      "identity" : "qonversion-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/qonversion/qonversion-ios-sdk.git",
+      "state" : {
+        "revision" : "88ee730f209d173d8ea7921e0e7ee6d86e58b9cd",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
