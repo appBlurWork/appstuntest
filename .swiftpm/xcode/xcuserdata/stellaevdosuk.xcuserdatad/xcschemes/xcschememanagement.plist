@@ -17,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>AppStunSDK</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>AppstunSDK</key>
 		<dict>
 			<key>primary</key>
