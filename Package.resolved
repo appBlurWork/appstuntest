@@ -1,4 +1,5 @@
 {
+  "originHash" : "b455eeef044913113f2d72e90862c827161b17365ed3f5b4843630f4baed0132",
   "pins" : [
     {
       "identity" : "defaults",
@@ -23,10 +24,10 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/qonversion/qonversion-ios-sdk.git",
       "state" : {
-        "revision" : "88ee730f209d173d8ea7921e0e7ee6d86e58b9cd",
-        "version" : "5.6.0"
+        "revision" : "0ec224f004c0673d942b23680ee046cba2a7e0be",
+        "version" : "5.13.0"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
